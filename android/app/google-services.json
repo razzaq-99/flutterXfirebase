@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81476419291",
+    "project_id": "my-second-project-5472f",
+    "storage_bucket": "my-second-project-5472f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81476419291:android:8f6cdc288604d4092a96fe",
+        "android_client_info": {
+          "package_name": "com.techease.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81476419291-tik4m5k7ojlnig74b4ff2epmn2i2lip7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFMHP-galKiXCP9e93uCYbBlUS8bDTUc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81476419291-tik4m5k7ojlnig74b4ff2epmn2i2lip7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
